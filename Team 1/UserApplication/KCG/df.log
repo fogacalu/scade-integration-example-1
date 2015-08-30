@@ -1,5 +1,6 @@
-I0001: SCADE UA DF Generator Version 6.4.2 (build i27) (c) Esterel Technologies SA 2011-2013 started at 2015-08-30T19:43:33.
-I0005: Command line: dfgen.exe -n "C:\Program Files (x86)\Esterel Technologies\Esterel SCADE 6.4.2\SCADE Display\config\Workspace\environments\UAPageCreator\A661Norm\a661.xml" -outdir "C:\Users\Lu\Documents\ITA\CE-237-Teste_Avancado_de_SW\Git_rep\scade-integration-example-1\Team 2\DefinitionFile\project2DF" -o project2 "C:\Users\Lu\Documents\ITA\CE-237-Teste_Avancado_de_SW\Git_rep\scade-integration-example-1\Team 2\DefinitionFile\project2.sgfx"
+I0001: SCADE Suite UA Adaptor Version 6.4.2 (build i25) (c) Esterel Technologies SA 2012-2013 started at 2015-08-30T19:51:15.
+I0005: Command line: uaadaptor.exe -n "C:\Program Files (x86)\Esterel Technologies\Esterel SCADE 6.4.2\SCADE Display\config\Workspace\environments\UAPageCreator\A661Norm\a661.xml" -k ..\UserApplication\KCG\kcg_trace.xml -d ..\DefinitionFile\project1.sgfx ..\UserApplication\project1.sdy -outdir ..\UserApplication\KCG
+I0006: Generated file: <log> : ..\UserApplication\KCG\ua.log
 I0007: Input file: C:\Program Files (x86)\Esterel Technologies\Esterel SCADE 6.4.2\SCADE Display\config\Workspace\environments\UAPageCreator\A661Norm\a661.xml
 I0007: Input file: C:\Program Files (x86)\Esterel Technologies\Esterel SCADE 6.4.2\SCADE Display\config\Workspace\environments\UAPageCreator\A661Norm\const.xml
 I0007: Input file: C:\Program Files (x86)\Esterel Technologies\Esterel SCADE 6.4.2\SCADE Display\config\Workspace\environments\UAPageCreator\A661Norm\type.xml
@@ -60,10 +61,13 @@ I0007: Input file: C:\Program Files (x86)\Esterel Technologies\Esterel SCADE 6.4
 I0007: Input file: C:\Program Files (x86)\Esterel Technologies\Esterel SCADE 6.4.2\SCADE Display\config\Workspace\environments\UAPageCreator\A661Norm\MapHorz.xml
 I0007: Input file: C:\Program Files (x86)\Esterel Technologies\Esterel SCADE 6.4.2\SCADE Display\config\Workspace\environments\UAPageCreator\A661Norm\MapHorz_Source.xml
 I0007: Input file: C:\Program Files (x86)\Esterel Technologies\Esterel SCADE 6.4.2\SCADE Display\config\Workspace\environments\UAPageCreator\A661Norm\MapHorz_ItemList.xml
+I0007: Input file: <UAADAPTOR msg> : C:\Program Files (x86)\Esterel Technologies\Esterel SCADE 6.4.2\SCADE Display\config\Workspace\environments\UAPageCreator\A661Norm\uaadaptor/MapHorz_ItemList_BufferOfMapItems.xml
 I0007: Input file: C:\Program Files (x86)\Esterel Technologies\Esterel SCADE 6.4.2\SCADE Display\config\Workspace\environments\UAPageCreator\A661Norm\MapVert.xml
 I0007: Input file: C:\Program Files (x86)\Esterel Technologies\Esterel SCADE 6.4.2\SCADE Display\config\Workspace\environments\UAPageCreator\A661Norm\MapVert_ItemList.xml
+I0007: Input file: <UAADAPTOR msg> : C:\Program Files (x86)\Esterel Technologies\Esterel SCADE 6.4.2\SCADE Display\config\Workspace\environments\UAPageCreator\A661Norm\uaadaptor/MapVert_ItemList_BufferOfItems.xml
 I0007: Input file: C:\Program Files (x86)\Esterel Technologies\Esterel SCADE 6.4.2\SCADE Display\config\Workspace\environments\UAPageCreator\A661Norm\MapVert_Source.xml
 I0007: Input file: C:\Program Files (x86)\Esterel Technologies\Esterel SCADE 6.4.2\SCADE Display\config\Workspace\environments\UAPageCreator\A661Norm\MapGrid.xml
+I0007: Input file: <UAADAPTOR msg> : C:\Program Files (x86)\Esterel Technologies\Esterel SCADE 6.4.2\SCADE Display\config\Workspace\environments\UAPageCreator\A661Norm\uaadaptor/MapGrid_bufferOfFillStyles.xml
 I0007: Input file: C:\Program Files (x86)\Esterel Technologies\Esterel SCADE 6.4.2\SCADE Display\config\Workspace\environments\UAPageCreator\A661Norm\BufferFormat.xml
 I0007: Input file: C:\Program Files (x86)\Esterel Technologies\Esterel SCADE 6.4.2\SCADE Display\config\Workspace\environments\UAPageCreator\A661Norm\Connector.xml
 I0007: Input file: C:\Program Files (x86)\Esterel Technologies\Esterel SCADE 6.4.2\SCADE Display\config\Workspace\environments\UAPageCreator\A661Norm\CursorRef.xml
@@ -72,9 +76,11 @@ I0007: Input file: C:\Program Files (x86)\Esterel Technologies\Esterel SCADE 6.4
 I0007: Input file: C:\Program Files (x86)\Esterel Technologies\Esterel SCADE 6.4.2\SCADE Display\config\Workspace\environments\UAPageCreator\A661Norm\FocusOut.xml
 I0007: Input file: C:\Program Files (x86)\Esterel Technologies\Esterel SCADE 6.4.2\SCADE Display\config\Workspace\environments\UAPageCreator\A661Norm\FocusLink.xml
 I0007: Input file: C:\Program Files (x86)\Esterel Technologies\Esterel SCADE 6.4.2\SCADE Display\config\Workspace\environments\UAPageCreator\A661Norm\ProxyButton.xml
-I0007: Input file: C:\Users\Lu\Documents\ITA\CE-237-Teste_Avancado_de_SW\Git_rep\scade-integration-example-1\Team 2\DefinitionFile\project2.sgfx
-I0006: Generated file: C:\Users\Lu\Documents\ITA\CE-237-Teste_Avancado_de_SW\Git_rep\scade-integration-example-1\Team 2\DefinitionFile\project2DF\project2.hexa
-I0006: Generated file: C:\Users\Lu\Documents\ITA\CE-237-Teste_Avancado_de_SW\Git_rep\scade-integration-example-1\Team 2\DefinitionFile\project2DF\project2.bin
-I0006: Generated file: C:\Users\Lu\Documents\ITA\CE-237-Teste_Avancado_de_SW\Git_rep\scade-integration-example-1\Team 2\DefinitionFile\project2DF\project2.df.xml
-I0006: Generated file: C:\Users\Lu\Documents\ITA\CE-237-Teste_Avancado_de_SW\Git_rep\scade-integration-example-1\Team 2\DefinitionFile\project2DF\project2.log
-I0002: SCADE UA DF Generator finished with 0 error(s) at 2015-08-30T19:43:36.
+I0007: Input file: <mapping> : ..\UserApplication\project1.sdy
+I0007: Input file: ..\DefinitionFile\project1.sgfx
+I0007: Input file: <scade: kcg_trace.xml> : ..\UserApplication\KCG\kcg_trace.xml
+I0006: Generated file: <.c> : ..\UserApplication\KCG\ua.c
+I0006: Generated file: <.h> : ..\UserApplication\KCG\ua.h
+I0808: [SUCCESSFUL]
+I0006: Generated file: ..\UserApplication\KCG\df.log
+I0002: SCADE Suite UA Adaptor finished with 0 error(s) at 2015-08-30T19:51:19.

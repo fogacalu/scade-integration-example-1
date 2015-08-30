@@ -1,3 +1,0 @@
--target_dir "C:/Users/Lu/Documents/ITA/CE-237-Teste_Avancado_de_SW/Git_rep/scade-integration-example-1/Team 2/UserApplication/project2/Simulation" -expall -target C -O 0 -name_length 200 -significance_length 31 -user_config "./user_macros.h" -input_threshold 2 -probes -debug 
--node project2
-"C:/Users/Lu/Documents/ITA/CE-237-Teste_Avancado_de_SW/Git_rep/scade-integration-example-1/Team 2/UserApplication/project2/Simulation/scade_model_without_unused.scade"

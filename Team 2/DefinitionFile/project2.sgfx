@@ -16,7 +16,7 @@
         <dimension height="256" width="256"/>
     </symbology>
     <A661 library_version="1" supp_version="4">
-        <intprop name="ApplicationId">1</intprop>
+        <intprop name="ApplicationId">2</intprop>
     </A661>
     <children>
         <A661Layer name="a661_layer" oid="6d41eeca-9310-4075-9edb-472be061393b">
@@ -112,5 +112,5 @@
     </children>
 </specification>
 
-<!-- crc32 : 2097266771 -->
+<!-- crc32 : 563555364 -->
 

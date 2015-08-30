@@ -1,0 +1,69 @@
+
+[SCADE\Simulator\Simulation]
+
+"Latency"="200" 
+"RefreshRate"="1" 
+
+[SCADE\Simulator\Watch]
+
+"Count"="0" 
+
+[SCADE\Simulator\Graph]
+
+"Count"="0" 
+
+[SCADE\Simulator\ControlBreakpoint]
+
+"Count"="0" 
+
+[SCADE\Simulator\DataBreakpoint]
+
+"Count"="0" 
+
+[SCADE\Simulator\TclBreakpoint]
+
+"Count"="0" 
+
+[STUDIO\TOOLS\CONFIGURATIONS\Code Generator]
+
+"C:\\Users\\Lu\\Documents\\ITA\\CE-237-Teste_Avancado_de_SW\\Git_rep\\scade-integration-example-1\\Team 2\\UserApplication\\project2\\project2.etp"="Simulation" 
+"C:\\Users\\Lu\\Documents\\ITA\\CE-237-Teste_Avancado_de_SW\\Git_rep\\scade-integration-example-1\\Team 2\\UserApplication\\project2.etp"="Simulation" 
+
+[STUDIO\TOOLS\CONFIGURATIONS\Design Verifier]
+
+"C:\\Users\\Lu\\Documents\\ITA\\CE-237-Teste_Avancado_de_SW\\Git_rep\\scade-integration-example-1\\Team 2\\UserApplication\\project2\\project2.etp"="KCG" 
+"C:\\Users\\Lu\\Documents\\ITA\\CE-237-Teste_Avancado_de_SW\\Git_rep\\scade-integration-example-1\\Team 2\\UserApplication\\project2.etp"="KCG" 
+
+[STUDIO\TOOLS\CONFIGURATIONS\Reporter]
+
+"C:\\Users\\Lu\\Documents\\ITA\\CE-237-Teste_Avancado_de_SW\\Git_rep\\scade-integration-example-1\\Team 2\\UserApplication\\project2\\project2.etp"="HTML" 
+"C:\\Users\\Lu\\Documents\\ITA\\CE-237-Teste_Avancado_de_SW\\Git_rep\\scade-integration-example-1\\Team 2\\UserApplication\\project2.etp"="HTML" 
+
+[STUDIO\TOOLS\CONFIGURATIONS\Timing and Stack Analysis Tools]
+
+"C:\\Users\\Lu\\Documents\\ITA\\CE-237-Teste_Avancado_de_SW\\Git_rep\\scade-integration-example-1\\Team 2\\UserApplication\\project2\\project2.etp"="KCG" 
+"C:\\Users\\Lu\\Documents\\ITA\\CE-237-Teste_Avancado_de_SW\\Git_rep\\scade-integration-example-1\\Team 2\\UserApplication\\project2.etp"="KCG" 
+
+[STUDIO\TOOLS\CONFIGURATIONS\DiffAnalyzer]
+
+"C:\\Users\\Lu\\Documents\\ITA\\CE-237-Teste_Avancado_de_SW\\Git_rep\\scade-integration-example-1\\Team 2\\UserApplication\\project2\\project2.etp"="KCG" 
+"C:\\Users\\Lu\\Documents\\ITA\\CE-237-Teste_Avancado_de_SW\\Git_rep\\scade-integration-example-1\\Team 2\\UserApplication\\project2.etp"="KCG" 
+
+[STUDIO\TOOLS\CONFIGURATIONS\Instrumenter]
+
+"C:\\Users\\Lu\\Documents\\ITA\\CE-237-Teste_Avancado_de_SW\\Git_rep\\scade-integration-example-1\\Team 2\\UserApplication\\project2\\project2.etp"="MTC" 
+"C:\\Users\\Lu\\Documents\\ITA\\CE-237-Teste_Avancado_de_SW\\Git_rep\\scade-integration-example-1\\Team 2\\UserApplication\\project2.etp"="MTC" 
+
+[SCADE\Editor\Shortcut]
+
+"groupNb"="0" 
+
+[SCADE\Editor\Tool]
+
+"UsePolyline"="false" 
+"TransitionKind"="strong" 
+
+[SCADE\Diff\Tool]
+
+"LastProject1"="" 
+"LastProject2"="" 
