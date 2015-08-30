@@ -11,6 +11,7 @@
             <output path="project2DF"/>
         </df_gen>
         <ratio horizontal="1" vertical="1"/>
+        <reporter company="Instituto Tecnológico de Aeronáutica" date="30-08-2015" subtitle="Definition File" title="SCADE integration"/>
     </IDE>
     <symbology>
         <dimension height="256" width="256"/>
@@ -112,5 +113,5 @@
     </children>
 </specification>
 
-<!-- crc32 : 563555364 -->
+<!-- crc32 : 4150414603 -->
 

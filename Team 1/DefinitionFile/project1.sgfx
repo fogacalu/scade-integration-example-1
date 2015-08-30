@@ -8,6 +8,7 @@
     <IDE>
         <environment_id value="-2133961615"/>
         <ratio horizontal="1" vertical="1"/>
+        <reporter authors="Luciana Rinaldi Fogaça" company="Instituto Tecnológico de Aeronáutica" date="30-08-2015" subtitle="Definition File" title="SCADE Integration"/>
     </IDE>
     <symbology>
         <dimension height="256" width="256"/>
@@ -109,5 +110,5 @@
     </children>
 </specification>
 
-<!-- crc32 : 3428990933 -->
+<!-- crc32 : 874966460 -->
 

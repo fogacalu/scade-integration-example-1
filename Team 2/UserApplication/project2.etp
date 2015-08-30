@@ -59,10 +59,6 @@
 			<value>$(TargetDir)\user_macros.h</value>
 			<configuration>21</configuration>
 		</Prop>
-		<Prop id="32" name="@REPORTER:SCRIPT">
-			<value>Reporter/ScadeReport.tcl</value>
-			<configuration>31</configuration>
-		</Prop>
 		<Prop id="33" name="@REPORTER:RotateLandscape">
 			<value>true</value>
 			<configuration>31</configuration>
@@ -214,22 +210,19 @@
 			<value>true</value>
 		</Prop>
 		<Prop id="76" name="@STUDIO:TITLE">
-			<value>&lt;title&gt;</value>
-		</Prop>
-		<Prop id="77" name="@STUDIO:SUBTITLE">
-			<value>&lt;subtitle&gt;</value>
+			<value>SCADE integration</value>
 		</Prop>
 		<Prop id="78" name="@STUDIO:DESCRIPTION">
 			<value>&lt;description&gt;</value>
 		</Prop>
 		<Prop id="79" name="@STUDIO:AUTHORS">
-			<value>&lt;authors&gt;</value>
+			<value>Luciana Rinaldi Fogaça</value>
 		</Prop>
 		<Prop id="80" name="@STUDIO:COMPAGNY">
-			<value>&lt;company&gt;</value>
+			<value>Instituto Tecnológico de Aeronáutica</value>
 		</Prop>
 		<Prop id="81" name="@STUDIO:DATE">
-			<value>&lt;date&gt;</value>
+			<value>30-08-2015</value>
 		</Prop>
 		<Prop id="82" name="@STUDIO:INDEX">
 			<value>&lt;index&gt;</value>
