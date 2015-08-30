@@ -16,11 +16,11 @@
         <du height="256" ratio_x="20" ratio_y="20" width="256"/>
         <conf>
             <window du_id="1" x1="0" x2="5119" y1="0" y2="5119">
-                <layer app_id="2" layer_id="1" visible="true"/>
+                <layer app_id="1" layer_id="1" visible="true"/>
             </window>
         </conf>
     </display_conf>
 </server_conf>
 
-<!-- crc32 : 2572574725 -->
+<!-- crc32 : 3796427494 -->
 

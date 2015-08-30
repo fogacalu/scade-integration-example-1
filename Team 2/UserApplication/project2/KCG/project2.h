@@ -1,6 +1,6 @@
 /* $*************** KCG Version 6.1.3 (build i6) ****************
 ** Command: s2c613 -config C:/Users/Lu/Documents/ITA/CE-237-Teste_Avancado_de_SW/Git_rep/scade-integration-example-1/Team 2/UserApplication/project2/KCG\kcg_s2c_config.txt
-** Generation date: 2015-08-30T16:23:10
+** Generation date: 2015-08-30T17:10:19
 *************************************************************$ */
 #ifndef _project2_H_
 #define _project2_H_
@@ -40,6 +40,6 @@ extern void project2_reset(outC_project2 *outC);
 #endif /* _project2_H_ */
 /* $*************** KCG Version 6.1.3 (build i6) ****************
 ** project2.h
-** Generation date: 2015-08-30T16:23:10
+** Generation date: 2015-08-30T17:10:19
 *************************************************************$ */
 

@@ -1,5 +1,5 @@
 $**************  SCADETOC Version 6.4.2 (build i26) **************
-** Generation date: 2015-08-30T16:23:05
+** Generation date: 2015-08-30T17:10:14
 ** Command: scade -code "C:\Users\Lu\Documents\ITA\CE-237-Teste_Avancado_de_SW\Git_rep\scade-integration-example-1\Team 2\UserApplication\project2\project2.etp" -node project2 -conf KCG
 *************************************************************$
 *** Generated Files Information (GENFIL): KCG- Generated files
@@ -31,6 +31,6 @@ $**************  SCADETOC Version 6.4.2 (build i26) **************
  ~sc2c_integration_files.txt
   at file C:\Users\Lu\Documents\ITA\CE-237-Teste_Avancado_de_SW\Git_rep\scade-integration-example-1\Team 2\UserApplication\project2\KCG\sc2c_integration_files.txt, line 0, character 0
 $**************  SCADETOC Version 6.4.2 (build i26) **************
-** Generation date: 2015-08-30T16:23:10
+** Generation date: 2015-08-30T17:10:19
 ** sc2c.log
 *************************************************************$

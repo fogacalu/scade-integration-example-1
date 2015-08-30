@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Project id="1" oid_count="103" defaultConfiguration="21">
+<Project id="1" oid_count="106" defaultConfiguration="21">
 	<props>
 		<Prop id="10" name="@STUDIO:PRODUCT">
 			<value>SC</value>
@@ -309,6 +309,10 @@
 			<value></value>
 			<configuration>13</configuration>
 		</Prop>
+		<Prop id="104" name="@GENERATOR:DISPLAY_ASYNC_PANELS">
+			<value>..\..\DefinitionFile\project2.sgfx</value>
+			<configuration>21</configuration>
+		</Prop>
 	</props>
 	<roots>
 		<Folder id="3" extensions="vsp;etp" name="SCADE Libraries">
@@ -333,7 +337,7 @@
 				<FileRef id="85" persistAs="project2.l4"/>
 			</elements>
 		</Folder>
-		<FileRef id="91" persistAs="..\..\DefinitionFile\project2.sgfx"/>
+		<FileRef id="106" persistAs="..\..\DefinitionFile\project2.sgfx"/>
 	</roots>
 	<configurations>
 		<Configuration id="13" name="KCG"/>
